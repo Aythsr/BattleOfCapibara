@@ -18,6 +18,6 @@ class Settings:
         self.screen_height = 800
         self.bgcolosr = (230, 230, 230)
         self.game_name = 'dome'
-        self.fontFont = pygame.font.Font(r'./font/STXINWEI.TTF', 30)
+        self.fontFont = pygame.font.Font(r'./font/singwei.TTF', 30)
         
         
