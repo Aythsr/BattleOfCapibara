@@ -27,7 +27,7 @@ class GlobalConfig (object):
         project_dir = os.path.dirname(project_dir)
         self.DEBUG = True
         self.font_dir = os.path.join(project_dir, 'font')
-        self.img_dir = os.path.join(project_dir, 'img')
+        self.img_dir = os.path.join(project_dir, 'imgs')
         self.db_dir = os.path.join(project_dir, 'database')
         self.data_dir = os.path.join(project_dir, 'datas')
         self.music_dir = os.path.join(project_dir, 'music')
